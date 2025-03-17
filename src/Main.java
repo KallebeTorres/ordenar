@@ -16,6 +16,7 @@ public class Main {
         Collections.sort(arra);
         for (String name : arra){
             System.out.println(name);
+            System.out.println("mono");
 
         }
 
